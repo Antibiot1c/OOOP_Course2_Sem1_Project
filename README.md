@@ -1,2 +1,2 @@
-# OOOP_Course2_Sem1_Project
-OldSnake
+# OldSnake game made by using C++
+

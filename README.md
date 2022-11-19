@@ -1,2 +1,2 @@
-# OldSnake game made by using C++
+### OldSnake game made by using C++
 
